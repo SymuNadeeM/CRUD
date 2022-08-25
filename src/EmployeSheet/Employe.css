@@ -1,0 +1,102 @@
+@import url("https://fonts.googleapis.com/css2?family=Barlow&family=Fascinate&family=Oswald&family=PT+Sans&family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,800;0,900;1,600&family=Roboto+Condensed:wght@300;400&family=Titan+One&display=swap");
+/* font-family: 'Alumni Sans Inline One', cursive;
+font-family: 'Barlow', sans-serif;
+font-family: 'Fascinate', cursive;
+font-family: 'Oleo Script Swash Caps', cursive;
+font-family: 'Oswald', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'PT Sans', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Condensed', sans-serif; */
+/* HomePageLayout */
+.link_Part {
+  padding: 20px;
+}
+.button_two {
+  margin-top: 10px;
+}
+button .link_homp {
+  text-decoration: none;
+  font-size: large;
+  font-family: "Poppins", sans-serif;
+  color: black;
+}
+.outLate_Part {
+  padding: 15px;
+}
+.outLate_Part .outlet_origin {
+  margin-top: 40px;
+}
+
+.edit_icon {
+  margin: 0px 10px;
+  font-size: 25px;
+}
+.delete_icon {
+  margin: 0px 10px;
+  font-size: 25px;
+  color: crimson;
+}
+
+/* player Add */
+.title_div {
+  display: flex;
+  margin-top: 50px;
+}
+.title_div .cri_icon {
+  font-size: 40px;
+  color: #ef5b0c;
+}
+
+.title_div h2 {
+  font-family: "Barlow", sans-serif;
+  font-size: 30px;
+}
+
+form {
+  background-color: #d0c9c0;
+  padding: 20px;
+}
+.childen_div {
+  display: flex;
+  flex-direction: column;
+}
+.childen_div label {
+  font-family: "PT Sans", sans-serif;
+}
+.childen_div input {
+  padding: 7px;
+  border: none;
+  /* border-radius: 5px; */
+  outline: none;
+}
+.descrip {
+  margin-top: 12px;
+}
+textarea {
+  padding: 7px;
+  border: none;
+  border-radius: 5px;
+  outline: none;
+}
+.submit_button {
+  margin-top: 10px;
+}
+
+.submit_button input {
+  width: 300px;
+  height: 35px;
+  outline: none;
+  border: none;
+  font-size: 20px;
+  color: #ef5b0c;
+  background-color: #99c4c8;
+}
+.submit_button input:hover {
+  transition: 0.4s;
+  color: #f1f1f1;
+}
+.childen_div p {
+  color: crimson;
+}

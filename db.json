@@ -1,0 +1,75 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employe": [
+    {
+      "phone": "0541200",
+      "position": "Employee",
+      "city": "Dhaka",
+      "age": 30,
+      "gender": "Male",
+      "name": "Akter Ali",
+      "id": 1
+    },
+    {
+      "phone": "0541202",
+      "position": "Employee",
+      "city": "Rome",
+      "age": 33,
+      "gender": "Female",
+      "name": "Farul Begum",
+      "id": 2
+    },
+    {
+      "phone": "064803",
+      "position": "Employee",
+      "city": "Khulna",
+      "age": 28,
+      "gender": "Male",
+      "name": "Harun ar-Roshid",
+      "id": 3
+    }
+  ],
+  "test": [
+    {
+      "firstName": "Key",
+      "age": 26,
+      "id": 1
+    },
+    {
+      "age": 30,
+      "firstName": "apple",
+      "id": 2
+    },
+    {
+      "age": 30,
+      "firstName": "keno asy din",
+      "id": 3
+    },
+    {
+      "age": 25,
+      "firstName": "ratul bas",
+      "id": 5
+    },
+    {
+      "firstName": "apple fasd",
+      "age": 33,
+      "id": 6
+    }
+  ]
+}
